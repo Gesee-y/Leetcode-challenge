@@ -1,42 +1,45 @@
 # Leetcode-challenge
-All the problems I solved on leetcode. It's just so that my github won't take dust, the time for me to get a computer 
 
-## My experience 
+All the problems I solved on Leetcode. It's just so my GitHub won’t gather dust while I wait to get a computer.
 
-After some time doing leetcode I discovered that most people (especially beginners) have the same problem. Not a skill issue, but an understanding issue. They often misinterpret the exercise and get stuck for hours, then complain in the comments about how leetcode's problems are poorly written and how flawed is it.
+## My experience
 
-Sometimes, once you clearly understand a problem the solution often feels natural.
+After some time doing Leetcode, I discovered that most people (especially beginners) face the same issue. Not a lack of skill, but a lack of understanding. They often misinterpret the exercise and get stuck for hours, then complain in the comments about how Leetcode’s problems are poorly written and flawed.
 
-## Why leetcode ?
+Sometimes, once you clearly understand a problem, the solution feels natural.
 
-I often feel like most people don't understand the purpose of leetcode's problems. 
-As Paul Zeitz stated in "The art and crafts of problem solving" there is a difference between a
-**problem** and an **exercise**.
+## Why Leetcode?
 
-An **exercise** is a clearly work where you just have to apply what you know, for example write the fibonacci serie algorithm. You just need to recall knowledge to solve this.
+I often feel like most people don’t understand the purpose of Leetcode’s problems.
+As Paul Zeitz stated in *The Art and Craft of Problem Solving*, there is a difference between a problem and an exercise.
 
-A *problem* on the other hand require you to think about how to solve the problem first. In a problem you have to understand what's stated, collect the necessary tools and relevant approaches for it.
-A problem is not mean to be clear about what you have to do and how to do it, that's the role of an exercise.
+An **exercise** is a straightforward task where you just apply what you already know (for example, writing the Fibonacci series algorithm). You just need to recall knowledge to solve it.
 
-Don't confuse the 2, else you will always keep complaining about how leetcode problems are poorly stated instead of thinking like a problem solver.
-## How I solve my problem
+A **problem**, on the other hand, requires you to think about how to solve it first. You need to understand what’s being asked, gather the necessary tools, and figure out relevant approaches.
+A problem is not supposed to be clear about what you have to do and how to do it, that’s the role of an exercise.
 
-- First of all, I **carefully read the exercise**. It's the most important part. I single misinterpretation can lead you on a pit. Is better to clearly restate and understand the problem before going further.
+Don’t confuse the two, otherwise you’ll keep complaining about how Leetcode’s problems are poorly stated instead of learning to think like a problem solver.
 
-- **Listing the necessary tools**. Once the problem is understood, we need the tools to solve it. You just need to see how each part of the problem match a given pattern.
+## How I solve problems
 
-- **Using analogies**. Instead of always solving the same problem from the ground, it's often better to just search what's similar between the given problem and the problems you previously solved. This way you can just reuse their solution to go faster.
+- **Carefully read the exercise**: This is the most important part. A single misinterpretation can send you straight into a trap. It’s better to restate and fully understand the problem before going further.
 
-- **See the solution**: If all these strategies failed, I will just see the solution. This way I absorb the pattern for that problem and make sure that if I'm given a similar exercise again, I will be able to solve. Especially because it make a new analogy in my toolbox.
+- **List the necessary tools**: Once the problem is understood, you need the tools to solve it. Look at how each part of the problem matches a known pattern.
 
-## Difficulties relativity
+- **Use analogies**: Instead of solving every problem from scratch, it’s often better to look for similarities with problems you’ve already solved. This way, you can reuse solutions and go faster.
 
-Peoples on Leetcode oftem misunderstand something...
-Difficulty is relative.
-Maybe some get discouraged after a problem took them hours but a guy just come and say "that's so easy taht it doesn't even deserve to be on leetcode".
-The thing is, problems on leetcode often rely on a given pattern. There greater the exposure to such pattern, the easier the problem is.
-If a problem seem hard it's just because you are discovering a new pattern, not because you are not a genius.
+- **Check the solution**: If all else fails, I look at the solution. That way I absorb the pattern behind the problem and make sure that if I see a similar one again, I’ll be able to solve it, especially since it adds a new analogy to my toolbox.
 
-So it's important to follow our pace, learning and praticing patterns one at a time instead of comparing ourselves to others.
+
+## Relativity of difficulty
+
+People on Leetcode often misunderstand something: difficulty is relative.
+Maybe someone gets discouraged after spending hours on a problem, while another person shows up and says, “That’s so easy, it doesn’t even deserve to be on Leetcode.”
+
+The truth is, Leetcode problems often rely on **specific patterns**. The more **exposure** you have to a given pattern, the easier the problem feels.
+If a problem seems hard, it’s usually just because you’re discovering a new pattern, not because you lack intelligence.
+
+That’s why it’s important to follow your own pace, learning and practicing patterns one at a time, instead of constantly comparing yourself to others.
+
 
 
