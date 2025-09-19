@@ -29,4 +29,14 @@ Don't confuse the 2, else you will always keep complaining about how leetcode pr
 
 - **See the solution**: If all these strategies failed, I will just see the solution. This way I absorb the pattern for that problem and make sure that if I'm given a similar exercise again, I will be able to solve. Especially because it make a new analogy in my toolbox.
 
+## Difficulties relativity
+
+Peoples on Leetcode oftem misunderstand something...
+Difficulty is relative.
+Maybe some get discouraged after a problem took them hours but a guy just come and say "that's so easy taht it doesn't even deserve to be on leetcode".
+The thing is, problems on leetcode often rely on a given pattern. There greater the exposure to such pattern, the easier the problem is.
+If a problem seem hard it's just because you are discovering a new pattern, not because you are not a genius.
+
+So it's important to follow our pace, learning and praticing patterns one at a time instead of comparing ourselves to others.
+
 
